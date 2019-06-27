@@ -26,7 +26,7 @@ var entrepreneurs = ["Oprah Winfrey", "Lauren Powell Jobs", "Arianna Huffington"
 
 function accessElementInArray(array, index) {
   myArray = [0, 1, 2, 3]
-  return myAsrray[4];
+  return myArray[4];
 }
 
 function destructivelyRemoveElementFromBeginningOfArray(array) {
