@@ -22,10 +22,11 @@ function destructivelyAddElementToEndOfArray(array, element) {
   return myArray;
 }
 
-var entrepreneurs = ["Oprah Winfrey", "Lauren Powell Jobs", "Arianna Huffington", "Bill Gates"];
+var entrepreneurs = ["Oprah Winfrey", "Lauren Powell Jobs", "Arianna Huffington"];
+
+const numbers = [1, 2, 3];
 
 function accessElementInArray(array, index) {
-  var myArray = [0, 1, 2, 3]
   return myArray[4];
 }
 
