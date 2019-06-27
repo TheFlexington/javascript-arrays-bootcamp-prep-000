@@ -25,7 +25,7 @@ function destructivelyAddElementToEndOfArray(array, element) {
 var entrepreneurs = ["Oprah Winfrey", "Lauren Powell Jobs", "Arianna Huffington", "Bill Gates"];
 
 function accessElementInArray(array, index) {
-  return entrepreneurs[3];
+  return array[3];
 }
 
 function destructivelyRemoveElementFromBeginningOfArray(array) {
